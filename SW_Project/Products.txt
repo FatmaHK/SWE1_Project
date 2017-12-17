@@ -1,0 +1,1 @@
+1|p1|online|b1|0|14|10.0|14|true|6#2|p2|onsite|b1|0|20|14.0|10|true|20#3|p3|onsite|b1|0|0|20.0|28|true|0#7|p7|onsite|b2|0|0|455.0|3|false|0#8|p8|online|b1|0|0|40.0|30|true|5#9|p9|online|b1|0|0|50.0|60|true|10#
